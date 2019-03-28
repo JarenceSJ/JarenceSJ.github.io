@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: jarencesj@gmail.com
 description: "Thrive on changes."
 keyword: "Jarence, 扯谈"
-url: "http://jarencesj.github.io"          # your host, for absolute URL
+url: "http://blog.shuaijay.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://JarenceSJ.github.io" # you code repository
 
